@@ -24,7 +24,7 @@ The latest version of the Byword theme for Mou can be found at the [GitHub repos
 
 ## Screenshot
 
-![Screenshot](https://github.com/CodeCatalyst/mou-theme-solarized/raw/master/screenshot.png)
+![Screenshot](https://raw.github.com/kvanlierop/byword-for-mou/master/screenshot.png)
 
 ## Warning
 
