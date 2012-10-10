@@ -1,4 +1,4 @@
-# BywordTheme for Mou
+# Byword Theme for Mou
 
 This is a theme for [Mou](http://mouapp.com/), a Markdown editor for Mac OS X, that provides syntax highlighting using [Byword](http://bywordapp.com)'s color scheme.
 
